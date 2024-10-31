@@ -5,3 +5,6 @@ Instalar en raspberry Pi Os Minimal:
 - sudo apt update && sudo apt upgrade
 - sudo apt install python3-picamera2
 - sudo apt install git
+### Estoy probando el uso de etiquetas con #
+La idea es que esto se suba a una página. Hecha con un backend.
+Bell pepper = Morrón OR Ají
